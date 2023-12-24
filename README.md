@@ -13,7 +13,7 @@ Installs the project dependencies
 ### `npm run server`
 
 Runs the fake API which is included in ./data directory of the root path.
-it is mendatory to run the fake API server which is built in json
+it is mendatory to run the json-server in order to fetch the data for application.
 
 ### `npm start`
 
