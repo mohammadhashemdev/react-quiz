@@ -6,6 +6,10 @@ in this simple application you can test your basic knowledge of reactjs.
 
 In the project directory, you can run:
 
+### `npm install`
+
+Installs the project dependencies
+
 ### `npm run server`
 
 Runs the fake API which is included in ./data directory of the root path.
